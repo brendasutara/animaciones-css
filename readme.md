@@ -12,7 +12,7 @@ En este proyecto, se ha implementado una página web demostrativa que aplica las
 
 ## Ver en vivo
 
-Para visualizar la página en acción, puedes acceder [aquí](enlace/a/la/pagina).
+Para visualizar la página en acción, puedes acceder [aquí](https://brendasutara.github.io/animaciones-css/).
 
 ## Características principales
 
